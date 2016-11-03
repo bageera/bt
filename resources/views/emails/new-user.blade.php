@@ -1,4 +1,4 @@
-Welcome: {{ $user->email }}
+Welcome Person: {{ $user->email }}
 
 You have a new profile!
 
